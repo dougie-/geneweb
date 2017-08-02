@@ -1,0 +1,1 @@
+../gw/ged2gwb -fne "" -f /home/dougie/geneweb-6.05/bases/09_30_2012.ged -o geneweb

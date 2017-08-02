@@ -1,0 +1,2442 @@
+0 HEAD
+1 SOUR GeneWeb
+2 VERS 6.05
+2 NAME gwb2ged
+2 CORP INRIA
+3 ADDR Domaine de Voluceau
+4 CONT B.P 105 - Rocquencourt
+4 CITY Le Chesnay Cedex
+4 POST 78153
+4 CTRY France
+3 PHON +33 01 39 63 55 11
+2 DATA geneweb.gwb
+1 DATE 29 SEP 2012
+2 TIME 23:38:40
+1 FILE 09_30_2012.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE go ahead and add to the tree... 
+0 @I1@ INDI
+1 NAME douglas /smith/
+1 SEX M
+1 BIRT
+2 DATE 1956
+2 PLAC fairmont, mn  http://goo.gl/maps/XdZUE
+1 OCCU The Home Depot   http://goo.gl/maps/13nc8
+1 FAMC @F1@
+1 FAMS @F2@
+1 OBJE
+2 FILE http://farm7.staticflickr.com/6024/5883224544_97f0fe56b0_m_d.jpg
+1 NOTE A link to person:  [[jean/mascari/link to jeans page]]  An image fro
+2 CONC m the db:  <img src="%sm=IM;d=270910268;p=jean;n=mascari;k=/jean.0.mas
+2 CONC cari">  external images from flickr:  <a href="http://www.flickr.com/p
+2 CONC hotos/80072855@N00/7741543766/" title="batch34 by dougie~, on Flickr">
+2 CONC <img src="http://farm8.staticflickr.com/7262/7741543766_bdd15b3624_q.j
+2 CONC pg" width="150" height="150" alt="batch34"></a> <a href="http://www.fl
+2 CONC ickr.com/photos/80072855@N00/7762059960/" title="ich_bin_der_opa_shir
+2 CONC t by dougie~, on Flickr"><img src="http://farm9.staticflickr.com/8300/
+2 CONC 7762059960_e75cfe54a0_q.jpg" width="150" height="150" alt="ich_bin_der
+2 CONC _opa_shirt"></a>
+0 @I2@ INDI
+1 NAME jean /mascari/
+1 SEX F
+1 BIRT
+2 DATE 1956
+2 PLAC california, USA
+1 FAMC @F3@
+1 FAMS @F2@
+0 @I3@ INDI
+1 NAME james anthony /smith/
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 OCCU verizon wireless
+1 FAMC @F2@
+1 FAMS @F4@
+1 NOTE that's my boy!
+0 @I4@ INDI
+1 NAME "john" edward /smith/
+1 SEX M
+1 BIRT
+2 DATE 11 MAR 1928
+2 PLAC mankato, mn
+1 DEAT
+1 FAMC @F5@
+1 FAMS @F1@
+0 @I5@ INDI
+1 NAME evelyn /lauruhn/
+2 GIVN evie
+1 SEX F
+1 BIRT
+2 DATE 1930
+1 DEAT
+1 FAMC @F6@
+1 FAMS @F1@
+0 @I6@ INDI
+1 NAME joeseph frank /mascari/
+1 SEX M
+1 BIRT
+2 DATE 1922
+1 DEAT
+1 FAMS @F3@
+1 FAMS @F7@
+1 FAMS @F8@
+0 @I7@ INDI
+1 NAME robbie jean /atkinson/
+1 SEX F
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 1993
+1 FAMC @F9@
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME jennifer /smith/
+1 SEX F
+1 DEAT
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME junior /?/
+1 DEAT
+1 FAMC @F10@
+0 @I10@ INDI
+1 NAME joeseph busey (jb) /smith/
+1 SEX M
+1 BIRT
+2 DATE 26 NOV 1890
+2 PLAC arcola, il  http://goo.gl/maps/2q70Q
+1 DEAT
+2 DATE 24 NOV 1975
+2 PLAC mankato, mn  http://goo.gl/maps/Vgz47
+1 FAMC @F11@
+1 FAMS @F5@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8426/7739702928_a930e582f9_o_d.jpg
+1 NOTE <a href="http://www.flickr.com/photos/80072855@N00/7739703320/" title=
+2 CONC "jbCommanderTN by dougie~, on Flickr"><img src="http://farm9.staticfli
+2 CONC ckr.com/8425/7739703320_e381258dcf_m.jpg" width="176" height="240" alt
+2 CONC ="jbCommanderTN"></a> <a href="http://www.flickr.com/photos/80072855@N
+2 CONC 00/7692458080/" title="jb_maude by dougie~, on Flickr"><img src="http:
+2 CONC //farm8.staticflickr.com/7140/7692458080_333301bc9d_n.jpg" width="320
+2 CONC " height="240" alt="jb_maude"></a> ''more photos here'' --> http://fli
+2 CONC c.kr/s/aHsjBfCnu9
+0 @I11@ INDI
+1 NAME maude may /caswell/
+1 SEX F
+1 BIRT
+2 DATE 12 MAY 1893
+2 PLAC knoxville, ia
+1 DEAT
+2 DATE 1985
+1 FAMC @F12@
+1 FAMS @F5@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8299/7773701712_e17270cc20_m_d.jpg
+1 NOTE <a href="http://www.flickr.com/photos/80072855@N00/7773763736/" title=
+2 CONC "batch08_13_2012_fmly1940 by dougie~, on Flickr"><img src="http://farm
+2 CONC 8.staticflickr.com/7127/7773763736_2b4612bb98_m.jpg" width="240" heigh
+2 CONC t="174" alt="batch08_13_2012_fmly1940"></a> <a href="http://www.flickr
+2 CONC .com/photos/80072855@N00/7692458080/" title="jb_maude by dougie~, on F
+2 CONC lickr"><img src="http://farm8.staticflickr.com/7140/7692458080_333301b
+2 CONC c9d_m.jpg" width="240" height="174" alt="jb_maude"></a>
+0 @I12@ INDI
+1 NAME marie ellen /smith/
+1 SEX F
+1 BIRT
+2 DATE 08 AUG 1919
+2 PLAC mankato, mn
+1 DEAT
+1 FAMC @F5@
+1 NOTE jb niknamed her 'hezzy"
+0 @I13@ INDI
+1 NAME marjorie amanda /smith/
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1914
+2 PLAC mankato, mn
+1 DEAT Y
+1 FAMC @F5@
+0 @I14@ INDI
+1 NAME joeseph lee /smith/
+1 SEX M
+1 BIRT
+2 DATE 1924
+2 PLAC mankato, mn
+1 DEAT
+2 DATE 25 OCT 1946
+1 BURI
+2 PLAC west point
+1 FAMC @F5@
+1 FAMS @F56@
+1 NOTE slides -->  http://goo.gl/WA2p4
+0 @I15@ INDI
+1 NAME benjamin joseph /smith/
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMC @F2@
+1 FAMS @F13@
+1 NOTE <a href="http://www.flickr.com/photos/80072855@N00/6096530810/" title=
+2 CONC "hpim1498 by dougie~, on Flickr"><img src="http://farm7.staticflickr.c
+2 CONC om/6210/6096530810_bae3f94d25_m.jpg" width="179" height="240" alt="hpi
+2 CONC m1498"></a>
+0 @I16@ INDI
+1 NAME christopher john /smith/
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMC @F2@
+0 @I17@ INDI
+1 NAME andrew douglas /smith/
+2 NICK sir
+1 SEX M
+1 BIRT
+2 DATE SEP 1980
+1 FAMC @F2@
+1 SOUR unknown   :)
+1 NOTE <a href="http://www.flickr.com/photos/80072855@N00/6096021933/" title=
+2 CONC "hpim1493 by dougie~, on Flickr"><img src="http://farm7.staticflickr.c
+2 CONC om/6063/6096021933_d2648f983f_q.jpg" width="150" height="150" alt="hpi
+2 CONC m1493"></a> <a href="http://www.flickr.com/photos/80072855@N00/6096019
+2 CONC 123/" title="hpim1499 by dougie~, on Flickr"><img src="http://farm7.st
+2 CONC aticflickr.com/6195/6096019123_1267e9ac09_q.jpg" width="150" height="1
+2 CONC 50" alt="hpim1499"></a> <a href="http://www.flickr.com/photos/80072855
+2 CONC @N00/7741540896/" title="batch32 by dougie~, on Flickr"><img src="http
+2 CONC ://farm9.staticflickr.com/8305/7741540896_563839d2aa_q.jpg" width="150
+2 CONC " height="150" alt="batch32"></a> <a href="http://www.flickr.com/photo
+2 CONC s/80072855@N00/7741527368/" title="batch2 by dougie~, on Flickr"><im
+2 CONC g src="http://farm9.staticflickr.com/8281/7741527368_40bc77b386_q.jpg
+2 CONC " width="150" height="150" alt="batch2"></a> <a href="http://www.flick
+2 CONC r.com/photos/80072855@N00/7741523192/" title="batch12 by dougie~, on F
+2 CONC lickr"><img src="http://farm9.staticflickr.com/8283/7741523192_7a2f643
+2 CONC e22_q.jpg" width="150" height="150" alt="batch12"></a>
+0 @I18@ INDI
+1 NAME larry /smith/
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 FAMC @F1@
+1 FAMS @F14@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8284/7788357656_fb706b1013_o_d.jpg
+0 @I19@ INDI
+1 NAME mare /smith/
+2 GIVN mare
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1951
+2 PLAC Mankato, Minnesota
+1 FAMC @F1@
+1 FAMS @F15@
+1 FAMS @F16@
+1 FAMS @F17@
+1 OBJE
+2 FILE http://farm4.staticflickr.com/3262/2316232691_a1bac82a63_q_d.jpg
+1 NOTE <a href="http://www.flickr.com/photos/10165214@N03/3217097055/" title=
+2 CONC "my angel wings by dailymare, on Flickr"><img src="http://farm4.static
+2 CONC flickr.com/3119/3217097055_972dd6cbb6_t.jpg" width="67" height="100" a
+2 CONC lt="my angel wings"></a>
+0 @I20@ INDI
+1 NAME ron /smith/
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMC @F1@
+1 FAMS @F18@
+1 FAMS @F19@
+1 FAMS @F20@
+0 @I21@ INDI
+1 NAME betty catherine /mascari/
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 DEAT
+2 DATE 1968
+1 FAMC @F3@
+0 @I22@ INDI
+1 NAME william gorgan /mascari/
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMC @F3@
+1 FAMS @F21@
+1 FAMS @F22@
+0 @I23@ INDI
+1 NAME james frank /mascari/
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMC @F3@
+1 FAMS @F23@
+1 FAMS @F24@
+0 @I24@ INDI
+1 NAME beverly margaret /mascari/
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMC @F3@
+1 FAMS @F25@
+0 @I25@ INDI
+1 NAME mary emma /unknown/
+1 SEX F
+1 DEAT
+1 FAMS @F7@
+0 @I26@ INDI
+1 NAME joeseph /mascari/
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 FAMC @F7@
+0 @I27@ INDI
+1 NAME gerard (jerry) /mascari/
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 DEAT
+2 DATE 2011
+1 FAMC @F7@
+0 @I28@ INDI
+1 NAME judy /wilson/
+1 SEX F
+1 DEAT
+1 FAMS @F8@
+1 FAMS @F26@
+0 @I29@ INDI
+1 NAME kristina /mascari/
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMC @F8@
+0 @I30@ INDI
+1 NAME manford /wilson/
+1 SEX M
+1 DEAT
+2 DATE 1999
+1 FAMS @F26@
+0 @I31@ INDI
+1 NAME wendy /wilson/
+1 SEX F
+1 BIRT
+2 DATE 1961
+1 FAMC @F26@
+0 @I32@ INDI
+1 NAME david /wilson/
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 FAMC @F26@
+0 @I33@ INDI
+1 NAME joseph william /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 02 OCT 1884
+2 PLAC brooklyn, ny
+1 DEAT
+2 DATE 08 APR 1955
+2 PLAC n. mankato, mn
+1 FAMC @F27@
+1 FAMS @F6@
+1 NOTE his siblings<a href="http://www.flickr.com/photos/80072855@N00/7773700
+2 CONC 460/" title="batch08_13_20123 by dougie~, on Flickr"><img src="http://
+2 CONC farm8.staticflickr.com/7280/7773700460_ee45d487cb_n.jpg" width="215" h
+2 CONC eight="320" alt="batch08_13_20123"></a> <a href="http://www.flickr.com
+2 CONC /photos/80072855@N00/7788524948/" title="opaBillLauruhn_bottomRight b
+2 CONC y dougie~, on Flickr"><img src="http://farm9.staticflickr.com/8293/778
+2 CONC 8524948_d16c002d89_n.jpg" width="320" height="274" alt="opaBillLauruhn
+2 CONC _bottomRight"></a> Opa is seated front-right.
+0 @I34@ INDI
+1 NAME edna alma mary /krueger/
+1 SEX F
+1 BIRT
+2 DATE 08 JUL 1902
+2 PLAC groton south dakota
+1 DEAT
+2 DATE 01 JAN 1998
+1 FAMC @F28@
+1 FAMS @F6@
+1 NOTE not sure on date on death....
+0 @I35@ INDI
+1 NAME Anita /Botello/
+1 SEX F
+1 DEAT
+1 FAMS @F18@
+0 @I36@ INDI
+1 NAME loujan /botello/
+1 SEX F
+1 DEAT
+1 FAMC @F18@
+0 @I37@ INDI
+1 NAME elizabeth (Liz) /casanova/
+1 SEX F
+1 DEAT
+1 FAMS @F19@
+1 OBJE
+2 FILE http://farm3.staticflickr.com/2184/2135482918_3c2cd177dc_m_d.jpg
+0 @I38@ INDI
+1 NAME ronjon /smith/
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMC @F19@
+1 OBJE
+2 FILE http://sphotos-b.xx.fbcdn.net/hphotos-ash3/543029_2654378097256_1499565842_n.jpg
+1 NOTE <a href="http://www.flickr.com/photos/80072855@N00/7773828564/" title=
+2 CONC "rjFunny by dougie~, on Flickr"><img src="http://farm9.staticflickr.co
+2 CONC m/8306/7773828564_cc2b265f18_m.jpg" width="180" height="240" alt="rjFu
+2 CONC nny"></a>
+0 @I39@ INDI
+1 NAME karl /berry/
+1 SEX M
+1 DEAT
+1 FAMS @F15@
+1 OBJE
+2 FILE http://farm8.staticflickr.com/7054/6856355893_c47ae560bc_m_d.jpg
+0 @I40@ INDI
+1 NAME ann /choe/
+1 SEX F
+1 DEAT
+1 FAMS @F13@
+0 @I41@ INDI
+1 NAME alan /benson/
+1 SEX M
+1 DEAT
+1 FAMS @F16@
+1 OBJE
+2 FILE http://sphotos-b.xx.fbcdn.net/hphotos-snc6/215566_1700992564186_2771171_n.jpg
+0 @I42@ INDI
+1 NAME meadow /benson/
+1 SEX F
+1 DEAT
+1 FAMC @F16@
+1 OBJE
+2 FILE http://sphotos-a.xx.fbcdn.net/hphotos-prn1/530056_4417297833377_1457483436_n.jpg
+0 @I43@ INDI
+1 NAME nick /benson/
+1 SEX M
+1 DEAT
+1 FAMC @F16@
+1 OBJE
+2 FILE http://sphotos-b.xx.fbcdn.net/hphotos-prn1/35169_454348270766_7260003_n.jpg
+0 @I44@ INDI
+1 NAME paul /balmer/
+1 SEX M
+1 DEAT
+1 FAMS @F17@
+1 OBJE
+2 FILE http://farm8.staticflickr.com/7128/7788411882_2855a977dd_o_d.jpg
+0 @I45@ INDI
+1 NAME robin /balmer/
+1 SEX M
+1 DEAT
+1 FAMC @F17@
+1 FAMS @F29@
+1 OBJE
+2 FILE http://farm3.staticflickr.com/2037/2122317615_cf99807b6d_q_d.jpg
+1 NOTE <a href="http://www.flickr.com/photos/10165214@N03/1803491075/" title=
+2 CONC "family costumes by dailymare, on Flickr"><img src="http://farm3.stati
+2 CONC cflickr.com/2155/1803491075_6e9806b4ce_t.jpg" width="67" height="100
+2 CONC " alt="family costumes"></a>
+0 @I46@ INDI
+1 NAME hailey /balmer/
+1 SEX F
+1 DEAT
+1 FAMS @F29@
+0 @I47@ INDI
+1 NAME ben /balmer/
+1 SEX M
+1 DEAT
+1 FAMC @F29@
+0 @I48@ INDI
+1 NAME monica /smith/
+1 SEX F
+1 DEAT
+1 FAMC @F19@
+0 @I49@ INDI
+1 NAME barbara /shamp/
+1 SEX F
+1 DEAT
+1 FAMS @F20@
+0 @I50@ INDI
+1 NAME joeseph /smith/
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMC @F20@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8296/7788311338_d40dceefeb_o_d.jpg
+0 @I51@ INDI
+1 NAME joeseph l /smith/
+1 SEX M
+1 BIRT
+2 DATE MAY 1857
+2 PLAC indiana USA
+1 DEAT Y
+1 FAMC @F30@
+1 FAMS @F11@
+1 NOTE https://familysearch.org/pal:/MM9.1.1/MS7G-V9V
+0 @I53@ INDI
+1 NAME bloomfield (bloomy) e /smith/
+1 SEX M
+1 BIRT
+2 DATE AUG 1878
+2 PLAC illinois
+1 DEAT Y
+1 FAMC @F11@
+1 NOTE photo of bloomies boys? <a href="http://www.flickr.com/photos/80072855
+2 CONC @N00/7765782192/" title="batch81220125 by dougie~, on Flickr"><img src
+2 CONC ="http://farm8.staticflickr.com/7249/7765782192_8d517781bb_n.jpg" widt
+2 CONC h="320" height="218" alt="batch81220125"></a>
+0 @I54@ INDI
+1 NAME clyde w (willey) /smith/
+1 SEX M
+1 BIRT
+2 DATE SEP 1885
+2 PLAC illinois
+1 DEAT Y
+1 FAMC @F11@
+0 @I55@ INDI
+1 NAME lenora loretta /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1922
+1 DEAT
+1 FAMC @F6@
+1 FAMS @F57@
+0 @I56@ INDI
+1 NAME william norman /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 DEAT
+2 DATE 2001
+1 FAMC @F6@
+1 FAMS @F31@
+0 @I57@ INDI
+1 NAME orla jean /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 DEAT
+1 FAMC @F6@
+1 FAMS @F66@
+0 @I58@ INDI
+1 NAME donna may /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1933
+1 FAMC @F6@
+1 FAMS @F79@
+0 @I59@ INDI
+1 NAME delbert wallace /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 FAMC @F6@
+1 FAMS @F53@
+0 @I60@ INDI
+1 NAME darlene joan /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1938
+1 FAMC @F6@
+1 FAMS @F54@
+0 @I61@ INDI
+1 NAME bruce james /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1940
+1 FAMC @F6@
+0 @I62@ INDI
+1 NAME charles a /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1851
+2 PLAC kersonberg germany
+1 DEAT
+2 DATE 1909
+2 PLAC minneapolis, mn usa
+1 FAMS @F27@
+0 @I63@ INDI
+1 NAME mattie /klatle/
+1 SEX F
+1 BIRT
+2 PLAC brenam, germany
+1 DEAT
+2 PLAC n. dakota usa
+1 FAMS @F27@
+0 @I64@ INDI
+1 NAME carl /krueger/
+1 SEX M
+1 BIRT
+2 DATE 1872
+2 PLAC dodge county wisconsin  usa
+1 DEAT
+2 DATE 1939
+2 PLAC groton south dakota
+1 FAMC @F32@
+1 FAMS @F28@
+0 @I65@ INDI
+1 NAME wilhelmina karolinna /wendt/
+1 SEX F
+1 BIRT
+2 DATE 1871
+2 PLAC west prussia germany
+1 DEAT
+2 DATE 1938
+2 PLAC groton south dakota
+1 FAMC @F33@
+1 FAMS @F28@
+0 @I66@ INDI
+1 NAME ernest /wendt/
+1 SEX M
+1 BIRT
+2 PLAC west prussia germany
+1 DEAT Y
+1 FAMS @F33@
+1 SOUR http://www.flickr.com/photos/80072855@N00/7741995100/
+1 NOTE http://en.wikipedia.org/wiki/West_Prussia  <hr />  West Prussia (Germa
+2 CONC n: Westpreußen; Polish: Prusy Zachodnie) was a province of the Kingdo
+2 CONC m of Prussia from 1773â1824 and 1878â1919/20 which was creat
+2 CONC ed out of the earlier Polish province of Royal Prussia. After German
+2 CONC y was defeated in 1918, in February 1920 it handed over West Prussia'
+2 CONC s central parts to become the so-called Polish Corridor and the Free C
+2 CONC ity of Danzig, while the parts remaining with the German Weimar Republ
+2 CONC ic became the new Posen-West Prussia or were joined to the Province o
+2 CONC f East Prussia as Regierungsbezirk West Prussia. The territory was inc
+2 CONC luded within Reichsgau Danzig-West Prussia from 1939â45, after wh
+2 CONC ich it became part of Poland.
+0 @I67@ INDI
+1 NAME charlot /fechner/
+1 SEX F
+1 BIRT
+2 PLAC west prussia germany
+1 DEAT Y
+1 FAMS @F33@
+0 @I68@ INDI
+1 NAME ida /wendt/
+1 SEX F
+1 DEAT
+1 FAMC @F33@
+0 @I69@ INDI
+1 NAME amellia /wendt/
+1 SEX F
+1 DEAT
+1 FAMC @F33@
+0 @I70@ INDI
+1 NAME marie /wendt/
+1 SEX F
+1 DEAT
+1 FAMC @F33@
+0 @I71@ INDI
+1 NAME emma /wendt/
+1 SEX F
+1 DEAT
+1 FAMC @F33@
+0 @I72@ INDI
+1 NAME john /krueger/
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1837
+2 PLAC germany
+1 DEAT
+2 DATE 25 AUG 1916
+2 PLAC groton south dakota
+1 BURI
+2 PLAC st johns luthern church west hansen cemitery
+1 FAMS @F32@
+1 SOUR http://www.flickr.com/photos/80072855@N00/7742183964/sizes/l/in/photostream/
+0 @I73@ INDI
+1 NAME louise /ferber/
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1839
+2 PLAC germany
+1 DEAT
+2 DATE 22 FEB 1903
+2 PLAC groton south dakota
+1 FAMS @F32@
+0 @I74@ INDI
+1 NAME paul /krueger/
+1 SEX M
+1 DEAT
+1 FAMC @F32@
+0 @I75@ INDI
+1 NAME william /krueger/
+1 SEX M
+1 DEAT
+1 FAMC @F32@
+0 @I76@ INDI
+1 NAME lydia /krueger/
+1 SEX F
+1 DEAT
+1 FAMC @F28@
+0 @I77@ INDI
+1 NAME edwina /krueger/
+1 SEX F
+1 DEAT
+1 FAMC @F28@
+0 @I78@ INDI
+1 NAME william /krueger/
+1 SEX M
+1 DEAT
+1 FAMC @F28@
+0 @I79@ INDI
+1 NAME mable /krueger/
+1 SEX F
+1 DEAT
+1 FAMC @F28@
+0 @I80@ INDI
+1 NAME viola /krueger/
+1 SEX F
+1 DEAT
+1 FAMC @F28@
+0 @I81@ INDI
+1 NAME walter /krueger/
+1 SEX M
+1 BIRT
+2 DATE 1912
+1 DEAT
+2 DATE 1912
+1 FAMC @F28@
+0 @I82@ INDI
+1 NAME carl /krueger/
+1 SEX M
+1 DEAT
+1 FAMC @F28@
+0 @I83@ INDI
+1 NAME laura /steele/
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMS @F14@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8436/7788357716_4012bee824_o_d.jpg
+0 @I84@ INDI
+1 NAME zach /smith/
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMC @F14@
+1 FAMS @F34@
+0 @I85@ INDI
+1 NAME jessica /smith/
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMC @F14@
+0 @I86@ INDI
+1 NAME maureen /murphy/
+1 SEX F
+1 DEAT
+1 FAMS @F34@
+0 @I87@ INDI
+1 NAME ruth /pass/
+1 SEX F
+1 DEAT
+1 FAMS @F31@
+0 @I88@ INDI
+1 NAME jim /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1943
+1 DEAT
+2 DATE 2010
+1 FAMC @F31@
+0 @I89@ INDI
+1 NAME vickie /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMC @F31@
+1 FAMS @F70@
+0 @I90@ INDI
+1 NAME john /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1951
+1 FAMC @F31@
+1 FAMS @F71@
+0 @I91@ INDI
+1 NAME joe /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1953
+1 FAMC @F31@
+1 FAMS @F75@
+0 @I92@ INDI
+1 NAME kristi /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1955
+1 FAMC @F31@
+0 @I93@ INDI
+1 NAME jeff /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1957
+1 FAMC @F31@
+1 FAMS @F76@
+0 @I94@ INDI
+1 NAME kelli /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMC @F31@
+1 FAMS @F78@
+0 @I95@ INDI
+1 NAME bernard dean /wood/
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMS @F25@
+0 @I96@ INDI
+1 NAME anitra jean /wood/
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F25@
+1 FAMS @F35@
+0 @I97@ INDI
+1 NAME mathew dean /wood/
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMC @F25@
+1 FAMS @F36@
+0 @I98@ INDI
+1 NAME linda karen /wood/
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMC @F25@
+0 @I99@ INDI
+1 NAME john george /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 DEAT
+2 DATE 1953
+1 FAMC @F37@
+1 FAMS @F12@
+1 NOTE composer & violinist
+0 @I100@ INDI
+1 NAME viola ellen /nelson/
+1 SEX F
+1 BIRT
+2 DATE 1875
+1 DEAT
+2 DATE 1962
+1 FAMS @F12@
+0 @I101@ INDI
+1 NAME john william /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1909
+1 DEAT
+1 FAMC @F12@
+1 FAMS @F38@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8284/7773702698_2f7e1fddb6_m_d.jpg
+0 @I102@ INDI
+1 NAME robert /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1896
+1 DEAT
+1 FAMC @F12@
+1 FAMS @F39@
+0 @I103@ INDI
+1 NAME robert /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1889
+1 FAMC @F40@
+1 FAMS @F41@
+0 @I104@ INDI
+1 NAME tom /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F40@
+0 @I105@ INDI
+1 NAME phil /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F40@
+0 @I106@ INDI
+1 NAME mary ann /caswell/
+1 SEX F
+1 DEAT
+1 FAMC @F40@
+0 @I107@ INDI
+1 NAME phoebe /caswell/
+1 SEX F
+1 DEAT
+1 FAMC @F40@
+0 @I108@ INDI
+1 NAME james /mitchell/
+1 SEX M
+1 DEAT
+1 FAMS @F35@
+0 @I109@ INDI
+1 NAME brandon /mitchell/
+1 SEX M
+1 DEAT
+1 FAMC @F35@
+0 @I110@ INDI
+1 NAME levi /mitchell/
+1 SEX M
+1 DEAT
+1 FAMC @F35@
+0 @I111@ INDI
+1 NAME hudson /mitchell/
+1 SEX M
+1 DEAT
+1 FAMC @F35@
+0 @I112@ INDI
+1 NAME summer /strickland/
+1 SEX F
+1 DEAT
+1 FAMS @F36@
+0 @I113@ INDI
+1 NAME tyner /wood/
+1 SEX M
+1 DEAT
+1 FAMC @F36@
+0 @I114@ INDI
+1 NAME lois /heaton/
+1 SEX F
+1 BIRT
+2 DATE 1892
+1 DEAT
+1 FAMS @F39@
+0 @I115@ INDI
+1 NAME norma /kersin/
+1 SEX F
+1 BIRT
+2 DATE 1920
+1 DEAT
+1 FAMS @F38@
+0 @I116@ INDI
+1 NAME paul ernest /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1924
+1 DEAT
+1 FAMC @F39@
+0 @I117@ INDI
+1 NAME Lloyd earl /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 DEAT
+1 FAMC @F39@
+0 @I118@ INDI
+1 NAME beula may /caswell/
+1 SEX F
+1 BIRT
+2 DATE 1928
+1 DEAT
+1 FAMC @F39@
+0 @I119@ INDI
+1 NAME raymond edward /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1929
+1 DEAT
+1 FAMC @F39@
+0 @I120@ INDI
+1 NAME linda lee /caswell/
+1 SEX F
+1 BIRT
+2 DATE 1944
+1 FAMC @F38@
+0 @I121@ INDI
+1 NAME marie ann /caswell/
+1 SEX F
+1 BIRT
+2 DATE 1948
+1 FAMC @F38@
+0 @I122@ INDI
+1 NAME beverly norman /atkinson/
+1 SEX M
+1 BIRT
+2 DATE 1900
+1 DEAT
+2 DATE 1970
+1 FAMS @F9@
+0 @I123@ INDI
+1 NAME margret inez /johnson/
+1 SEX F
+1 BIRT
+2 DATE 1903
+1 DEAT
+2 DATE 1969
+1 FAMC @F42@
+1 FAMS @F9@
+0 @I124@ INDI
+1 NAME betty ann /atkinson/
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 DEAT
+2 DATE 1991
+1 FAMC @F9@
+1 FAMS @F43@
+0 @I125@ INDI
+1 NAME samuel franklin /johnson/
+1 SEX M
+1 BIRT
+2 DATE 1870
+1 DEAT
+2 DATE 1939
+1 FAMC @F44@
+1 FAMS @F42@
+0 @I126@ INDI
+1 NAME eunice e /morton/
+1 SEX F
+1 BIRT
+2 DATE 1873
+1 DEAT
+2 DATE 1959
+1 FAMC @F45@
+1 FAMS @F42@
+0 @I127@ INDI
+1 NAME rev. hezekia /morton/
+1 SEX M
+1 BIRT
+2 DATE 1837
+1 DEAT
+2 DATE 1922
+1 FAMS @F45@
+0 @I128@ INDI
+1 NAME margret a /jordan/
+1 SEX F
+1 BIRT
+2 DATE 1846
+1 DEAT
+2 DATE 1885
+1 FAMS @F45@
+0 @I129@ INDI
+1 NAME james a /morton/
+1 SEX M
+1 BIRT
+2 DATE 1869
+1 DEAT Y
+1 FAMC @F45@
+0 @I130@ INDI
+1 NAME walter m /morton/
+1 SEX M
+1 BIRT
+2 DATE 1871
+1 DEAT Y
+1 FAMC @F45@
+0 @I131@ INDI
+1 NAME margaret louise /morton/
+1 SEX F
+1 BIRT
+2 DATE 1875
+1 DEAT
+2 DATE 1939
+1 FAMC @F45@
+0 @I132@ INDI
+1 NAME cora alice /morton/
+1 SEX F
+1 BIRT
+2 DATE 1877
+1 DEAT
+2 DATE 1940
+1 FAMC @F45@
+0 @I133@ INDI
+1 NAME dewitt h /morton/
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+1 FAMC @F45@
+0 @I134@ INDI
+1 NAME annie e /morton/
+1 SEX F
+1 BIRT
+2 DATE 1881
+1 DEAT Y
+1 FAMC @F45@
+0 @I135@ INDI
+1 NAME hattie b /morton/
+1 SEX F
+1 BIRT
+2 DATE 1883
+1 DEAT
+2 DATE 1976
+1 FAMC @F45@
+0 @I136@ INDI
+1 NAME raymond m /johnson/
+1 SEX M
+1 BIRT
+2 DATE 1899
+1 DEAT
+2 DATE 1965
+1 FAMC @F42@
+1 FAMS @F46@
+0 @I137@ INDI
+1 NAME alice louise /johnson/
+1 SEX F
+1 BIRT
+2 DATE 1905
+1 DEAT
+2 DATE 1906
+1 FAMC @F42@
+0 @I138@ INDI
+1 NAME samuel franklin /johnson/
+1 SEX M
+1 BIRT
+2 DATE 1917
+1 DEAT
+1 FAMC @F42@
+0 @I139@ INDI
+1 NAME james franklin /johnson/
+1 SEX M
+1 BIRT
+2 DATE 1831
+1 DEAT
+2 DATE 1898
+1 FAMS @F44@
+0 @I140@ INDI
+1 NAME adeline v /martin/
+1 SEX F
+1 BIRT
+2 DATE 1835
+1 DEAT
+2 DATE 1888
+1 FAMS @F44@
+0 @I141@ INDI
+1 NAME mettie viola /johnson/
+1 SEX F
+1 BIRT
+2 DATE 1867
+1 DEAT Y
+1 FAMC @F44@
+0 @I142@ INDI
+1 NAME nanie maggie /johnson/
+1 SEX F
+1 BIRT
+2 DATE 1874
+1 DEAT Y
+1 FAMC @F44@
+0 @I143@ INDI
+1 NAME robert thomas /johnson/
+1 SEX M
+1 BIRT
+2 DATE 1872
+1 DEAT
+2 DATE 1874
+1 FAMC @F44@
+0 @I144@ INDI
+1 NAME irving /frank/
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 DEAT
+1 FAMS @F43@
+0 @I145@ INDI
+1 NAME joan /frank/
+1 SEX F
+1 BIRT
+2 DATE 1946
+1 FAMC @F43@
+0 @I146@ INDI
+1 NAME julie /frank/
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMC @F43@
+0 @I147@ INDI
+1 NAME mildred jarrell /woodcock/
+1 SEX F
+1 BIRT
+2 DATE 1903
+1 DEAT
+2 DATE 1977
+1 FAMS @F46@
+0 @I148@ INDI
+1 NAME gloria maria /johnson/
+1 SEX F
+1 BIRT
+2 DATE 1922
+1 DEAT
+1 FAMC @F46@
+0 @I149@ INDI
+1 NAME raymond /johnson/
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 DEAT
+2 DATE 1969
+1 FAMC @F46@
+0 @I150@ INDI
+1 NAME debbie /x/
+1 SEX F
+1 DEAT
+1 FAMS @F21@
+0 @I151@ INDI
+1 NAME teresa /y/
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F22@
+0 @I152@ INDI
+1 NAME pamela jean /ellis/
+1 SEX F
+1 BIRT
+2 DATE 1951
+1 FAMS @F23@
+0 @I153@ INDI
+1 NAME karen jean /z/
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 DEAT
+2 DATE 2004
+1 FAMS @F24@
+0 @I154@ INDI
+1 NAME samantha jean /mascari/
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMC @F24@
+0 @I155@ INDI
+1 NAME anthony james /mascari/
+1 SEX M
+1 BIRT
+2 DATE 1993
+1 DEAT
+2 DATE 2005
+1 FAMC @F24@
+0 @I156@ INDI
+1 NAME jabel /smith/
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC kentucky usa
+1 DEAT Y
+1 FAMC @F47@
+1 FAMS @F30@
+1 SOUR https://familysearch.org/pal:/MM9.1.1/MXXD-L2S
+1 NOTE https://familysearch.org/pal:/MM9.1.1/MXXD-L2W  <a href="http://www.fl
+2 CONC ickr.com/photos/80072855@N00/7756683832/" title="1870censusSS by dougi
+2 CONC e~, on Flickr"><img src="http://farm9.staticflickr.com/8293/7756683832
+2 CONC _62ce12bc47_n.jpg" width="320" height="231" alt="1870censusSS"></a>
+0 @I157@ INDI
+1 NAME hannah /NoSurnameGiven/
+1 SEX F
+1 BIRT
+2 DATE 1830
+2 PLAC pennsylvania
+1 DEAT Y
+1 FAMS @F30@
+0 @I158@ INDI
+1 NAME william c /smith/
+1 SEX M
+1 BIRT
+2 DATE 1850
+1 DEAT Y
+1 FAMC @F30@
+0 @I159@ INDI
+1 NAME massenier /smith/
+1 SEX M
+1 BIRT
+2 DATE 1852
+1 DEAT Y
+1 FAMC @F30@
+0 @I160@ INDI
+1 NAME rosannah /smith/
+1 SEX F
+1 BIRT
+2 DATE 1856
+1 DEAT Y
+1 FAMC @F30@
+0 @I161@ INDI
+1 NAME andrew j /smith/
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 DEAT Y
+1 FAMC @F30@
+0 @I162@ INDI
+1 NAME rebecca /smith/
+1 SEX F
+1 BIRT
+2 DATE 1867
+1 DEAT Y
+1 FAMC @F30@
+0 @I163@ INDI
+1 NAME hannah /smith/
+1 SEX F
+1 BIRT
+2 DATE 1870
+1 DEAT Y
+1 FAMC @F30@
+0 @I164@ INDI
+1 NAME amanda l /knapp/
+1 SEX F
+1 BIRT
+2 DATE 1857
+2 PLAC west virginia, USA
+1 DEAT Y
+1 FAMS @F11@
+0 @I165@ INDI
+1 NAME jabel /smith/
+1 SEX M
+1 BIRT
+2 DATE 1806
+2 PLAC kentucky usa
+1 DEAT Y
+1 FAMS @F47@
+1 NOTE https://familysearch.org/pal:/MM9.1.1/MCC8-X51 ... or ...  https://fam
+2 CONC ilysearch.org/pal:/MM9.1.1/MZBR-CK5  <a href="http://www.flickr.com/ph
+2 CONC otos/80072855@N00/7756664492/" title="1880census by dougie~, on Flickr
+2 CONC "><img src="http://farm9.staticflickr.com/8294/7756664492_429e41ddd8_n
+2 CONC .jpg" width="320" height="268" alt="1880census"></a>
+0 @I166@ INDI
+1 NAME rhonda /unknown/
+1 SEX F
+1 BIRT
+2 DATE 1804
+2 PLAC kentucky usa
+1 DEAT Y
+1 FAMS @F47@
+0 @I167@ INDI
+1 NAME john /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F40@
+0 @I168@ INDI
+1 NAME maria /fittell/
+1 SEX F
+1 DEAT
+1 FAMC @F51@
+0 @I169@ INDI
+1 NAME robert /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F48@
+1 FAMS @F37@
+0 @I170@ INDI
+1 NAME maria /fittell/
+1 SEX F
+1 DEAT
+1 FAMC @F49@
+1 FAMS @F37@
+0 @I171@ INDI
+1 NAME viola nelsom /nelson/
+1 SEX F
+1 DEAT
+1 FAMS @F41@
+0 @I172@ INDI
+1 NAME robert james /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 DEAT
+2 DATE 1962
+1 FAMC @F37@
+0 @I173@ INDI
+1 NAME frederick /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1883
+1 DEAT
+2 DATE 1954
+1 FAMC @F37@
+0 @I174@ INDI
+1 NAME william hill /caswell/
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 DEAT
+2 DATE 1926
+1 FAMC @F37@
+0 @I175@ INDI
+1 NAME robert /caswell/
+1 SEX M
+1 BIRT
+2 PLAC wales
+1 DEAT
+2 DATE 1860
+2 PLAC blackjack, Illinois
+1 FAMS @F48@
+0 @I176@ INDI
+1 NAME ann /phillips/
+1 SEX F
+1 DEAT
+1 FAMS @F48@
+0 @I177@ INDI
+1 NAME phoebe /caswell/
+1 SEX F
+1 DEAT
+1 FAMC @F48@
+0 @I178@ INDI
+1 NAME mary ann /caswell/
+1 SEX F
+1 DEAT
+1 FAMC @F48@
+0 @I179@ INDI
+1 NAME phil /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F48@
+0 @I180@ INDI
+1 NAME john /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F48@
+0 @I181@ INDI
+1 NAME tom /caswell/
+1 SEX M
+1 DEAT
+1 FAMC @F48@
+0 @I182@ INDI
+1 NAME fredrick /fittell/
+1 SEX M
+1 DEAT
+2 PLAC coal valley, Illinois
+1 FAMS @F49@
+0 @I183@ INDI
+1 NAME sarah /crawford/
+1 SEX F
+1 DEAT
+2 PLAC coal valley, Illinois
+1 FAMS @F49@
+0 @I184@ INDI
+1 NAME joe /fittell/
+1 SEX M
+1 DEAT
+1 FAMC @F49@
+0 @I185@ INDI
+1 NAME john /fittell/
+1 SEX M
+1 DEAT
+1 FAMC @F49@
+0 @I186@ INDI
+1 NAME george /fittell/
+1 SEX M
+1 DEAT
+1 FAMC @F49@
+0 @I187@ INDI
+1 NAME sister m. wooley /fittell/
+1 SEX F
+1 DEAT
+1 FAMC @F49@
+0 @I197@ INDI
+1 NAME sally /??/
+1 SEX F
+1 DEAT
+1 FAMS @F53@
+0 @I198@ INDI
+1 NAME david /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1971
+1 FAMC @F53@
+0 @I199@ INDI
+1 NAME michael /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMC @F53@
+0 @I200@ INDI
+1 NAME bud /abbe/
+1 SEX M
+1 DEAT
+1 FAMS @F54@
+0 @I201@ INDI
+1 NAME don /abbe/
+1 SEX M
+1 BIRT
+2 DATE 1965
+1 FAMC @F54@
+1 FAMS @F81@
+0 @I202@ INDI
+1 NAME lynn /abbe/
+1 SEX F
+1 DEAT
+1 FAMC @F54@
+1 FAMS @F55@
+0 @I203@ INDI
+1 NAME steve /davies/
+1 SEX M
+1 DEAT
+1 FAMS @F55@
+0 @I204@ INDI
+1 NAME patricia /unknown/
+1 SEX F
+1 DEAT
+1 FAMS @F56@
+0 @I205@ INDI
+1 NAME etta (case) /lauruhn/
+1 SEX F
+1 DEAT
+1 FAMC @F27@
+1 OBJE
+2 FILE http://farm8.staticflickr.com/7253/7788199264_518228f743_o_d.jpg
+1 NOTE top-left in photo <a href="http://www.flickr.com/photos/80072855@N00/7
+2 CONC 773700460/" title="batch08_13_20123 by dougie~, on Flickr"><img src="h
+2 CONC ttp://farm8.staticflickr.com/7280/7773700460_ee45d487cb_n.jpg" width="
+2 CONC 215" height="320" alt="batch08_13_20123"></a>
+0 @I206@ INDI
+1 NAME anna (graves) /lauruhn/
+1 SEX F
+1 DEAT
+1 FAMC @F27@
+1 OBJE
+2 FILE http://farm8.staticflickr.com/7279/7788199344_94df9aaafd_o_d.jpg
+1 NOTE top-right of photo <a href="http://www.flickr.com/photos/80072855@N00/
+2 CONC 7773700460/" title="batch08_13_20123 by dougie~, on Flickr"><img src="
+2 CONC http://farm8.staticflickr.com/7280/7773700460_ee45d487cb_n.jpg" width=
+2 CONC "215" height="320" alt="batch08_13_20123"></a>
+0 @I207@ INDI
+1 NAME catherine (ledebur) /lauruhn/
+1 SEX F
+1 DEAT
+1 FAMC @F27@
+1 OBJE
+2 FILE http://farm9.staticflickr.com/8427/7788199430_35d5fc2ea4_o_d.jpg
+1 NOTE bottom-right of photo <a href="http://www.flickr.com/photos/80072855@N
+2 CONC 00/7773700460/" title="batch08_13_20123 by dougie~, on Flickr"><img sr
+2 CONC c="http://farm8.staticflickr.com/7280/7773700460_ee45d487cb_n.jpg" wid
+2 CONC th="215" height="320" alt="batch08_13_20123"></a>
+0 @I208@ INDI
+1 NAME mike /sheehan/
+1 SEX M
+1 DEAT
+1 FAMS @F57@
+0 @I209@ INDI
+1 NAME richard /sheehan/
+1 SEX M
+1 BIRT
+2 DATE 1940
+1 DEAT
+2 DATE 1999
+1 FAMC @F57@
+1 FAMS @F58@
+0 @I210@ INDI
+1 NAME james /sheehan/
+1 SEX M
+1 BIRT
+2 DATE 1941
+1 FAMC @F57@
+1 FAMS @F60@
+1 FAMS @F61@
+0 @I211@ INDI
+1 NAME nancy /sheehan/
+1 SEX F
+1 BIRT
+2 DATE 1946
+1 FAMC @F57@
+1 FAMS @F59@
+0 @I212@ INDI
+1 NAME joanne /?/
+1 SEX F
+1 DEAT
+1 FAMS @F58@
+0 @I213@ INDI
+1 NAME micheal /sheehan/
+1 SEX M
+1 BIRT
+2 DATE 1944
+1 FAMC @F57@
+1 FAMS @F63@
+0 @I214@ INDI
+1 NAME jim /zarn/
+1 SEX M
+1 DEAT
+1 FAMS @F59@
+0 @I215@ INDI
+1 NAME renee /zarn/
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMC @F59@
+0 @I216@ INDI
+1 NAME david /zarn/
+1 SEX M
+1 BIRT
+2 DATE 1971
+1 FAMC @F59@
+0 @I217@ INDI
+1 NAME kim /zarn/
+1 SEX F
+1 DEAT
+1 FAMC @F59@
+1 FAMS @F62@
+0 @I218@ INDI
+1 NAME valerie /?/
+1 SEX F
+1 DEAT
+1 FAMS @F60@
+0 @I219@ INDI
+1 NAME russell /sheehan/
+1 SEX M
+1 DEAT
+1 FAMC @F60@
+0 @I220@ INDI
+1 NAME judy /?/
+1 SEX F
+1 DEAT
+1 FAMS @F61@
+0 @I222@ INDI
+1 NAME tessa /?zarn/
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F62@
+0 @I223@ INDI
+1 NAME mary /?/
+1 SEX F
+1 DEAT
+1 FAMS @F63@
+0 @I224@ INDI
+1 NAME emelyn /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F63@
+0 @I225@ INDI
+1 NAME alexa /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F63@
+0 @I226@ INDI
+1 NAME leden /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F63@
+0 @I227@ INDI
+1 NAME olivia /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F63@
+0 @I228@ INDI
+1 NAME tom /sheehan/
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMC @F57@
+1 FAMS @F64@
+0 @I229@ INDI
+1 NAME kathy /?/
+1 SEX F
+1 DEAT
+1 FAMS @F64@
+0 @I230@ INDI
+1 NAME eric /sheehan/
+1 SEX M
+1 DEAT
+1 FAMC @F64@
+1 FAMS @F65@
+0 @I231@ INDI
+1 NAME john /sheehan/
+1 SEX M
+1 BIRT
+2 DATE 1972
+1 DEAT
+2 DATE 1977
+1 FAMC @F64@
+0 @I233@ INDI
+1 NAME lisa /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F65@
+0 @I234@ INDI
+1 NAME chloey /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F65@
+0 @I235@ INDI
+1 NAME claire /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F65@
+0 @I236@ INDI
+1 NAME quinnn /sheehan/
+1 SEX M
+1 DEAT
+1 FAMC @F65@
+0 @I237@ INDI
+1 NAME kara /sheehan/
+1 SEX F
+1 DEAT
+1 FAMC @F64@
+0 @I238@ INDI
+1 NAME bud /leonhardt/
+1 SEX M
+1 DEAT
+1 FAMS @F66@
+0 @I239@ INDI
+1 NAME sharon /leonhardt/
+1 SEX F
+1 DEAT
+2 DATE 2006
+1 FAMC @F66@
+1 FAMS @F67@
+0 @I240@ INDI
+1 NAME randy /leonhardt/
+1 SEX M
+1 DEAT
+1 FAMC @F66@
+1 FAMS @F68@
+0 @I241@ INDI
+1 NAME tim /leonhardt/
+1 SEX M
+1 DEAT
+1 FAMC @F66@
+1 FAMS @F69@
+0 @I242@ INDI
+1 NAME jack /stiles/
+1 SEX M
+1 DEAT
+1 FAMS @F67@
+0 @I243@ INDI
+1 NAME cindy /stiles/
+1 SEX F
+1 DEAT
+1 FAMC @F67@
+0 @I244@ INDI
+1 NAME laurie /stiles/
+1 SEX F
+1 DEAT
+1 FAMC @F67@
+0 @I245@ INDI
+1 NAME kathy /halfner?/
+1 SEX F
+1 DEAT
+1 FAMS @F68@
+0 @I246@ INDI
+1 NAME michele /leonhardt/
+1 SEX F
+1 BIRT
+2 DATE 1967
+1 FAMC @F68@
+0 @I247@ INDI
+1 NAME pat /leonhardt/
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMC @F68@
+0 @I248@ INDI
+1 NAME jeanine /?/
+1 SEX F
+1 DEAT
+1 FAMS @F69@
+0 @I249@ INDI
+1 NAME corinne /leonhardt/
+1 SEX F
+1 DEAT
+1 FAMC @F69@
+0 @I250@ INDI
+1 NAME bill /leonhardt/
+1 SEX M
+1 DEAT
+1 FAMC @F69@
+0 @I251@ INDI
+1 NAME nicole /leonhardt/
+1 SEX F
+1 DEAT
+1 FAMC @F69@
+0 @I252@ INDI
+1 NAME tom /leonhardt/
+1 SEX M
+1 DEAT
+1 FAMC @F69@
+0 @I253@ INDI
+1 NAME tom /hager/
+1 SEX M
+1 DEAT
+1 FAMS @F70@
+0 @I254@ INDI
+1 NAME mandy /hager/
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMC @F70@
+0 @I255@ INDI
+1 NAME alison /hager/
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F70@
+0 @I256@ INDI
+1 NAME sam /hager/
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 FAMC @F70@
+0 @I257@ INDI
+1 NAME cathy /?/
+1 SEX F
+1 DEAT
+1 FAMS @F71@
+0 @I258@ INDI
+1 NAME katie /lauruhn/
+1 SEX F
+1 DEAT
+1 FAMC @F71@
+1 FAMS @F72@
+0 @I259@ INDI
+1 NAME kari /lauruhn/
+1 SEX F
+1 DEAT
+1 FAMC @F71@
+1 FAMS @F73@
+0 @I260@ INDI
+1 NAME josh /lauruhn/
+1 SEX M
+1 DEAT
+2 DATE ABT 2008
+1 FAMC @F71@
+0 @I261@ INDI
+1 NAME jesse /lauruhn/
+1 SEX M
+1 DEAT
+1 FAMC @F71@
+1 FAMS @F74@
+0 @I263@ INDI
+1 NAME josh /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 2006
+1 FAMC @F72@
+0 @I264@ INDI
+1 NAME aaron /schuegar/
+1 SEX M
+1 DEAT
+1 FAMS @F73@
+0 @I265@ INDI
+1 NAME timothy /schuegar/
+1 SEX M
+1 BIRT
+2 DATE 2000
+1 FAMC @F73@
+0 @I266@ INDI
+1 NAME logan /schuegar/
+1 BIRT
+2 DATE 2001
+1 FAMC @F73@
+0 @I267@ INDI
+1 NAME abrams /schuegar/
+1 SEX M
+1 BIRT
+2 DATE 2005
+1 FAMC @F73@
+0 @I268@ INDI
+1 NAME kendra /?/
+1 SEX F
+1 DEAT
+1 FAMS @F74@
+0 @I269@ INDI
+1 NAME brock /lauruhn/
+1 SEX M
+1 DEAT
+1 FAMC @F74@
+0 @I270@ INDI
+1 NAME lori /?/
+1 SEX F
+1 DEAT
+1 FAMS @F75@
+0 @I271@ INDI
+1 NAME barrett /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMC @F75@
+0 @I272@ INDI
+1 NAME lauren /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F75@
+0 @I273@ INDI
+1 NAME linda /?/
+1 SEX F
+1 DEAT
+1 FAMS @F76@
+0 @I274@ INDI
+1 NAME chris /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 FAMC @F76@
+0 @I275@ INDI
+1 NAME julia /lauruhn/
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMC @F76@
+1 FAMS @F77@
+0 @I276@ INDI
+1 NAME erica /lauruhn/
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMC @F76@
+0 @I277@ INDI
+1 NAME ? /hernanedez/
+1 SEX M
+1 DEAT
+1 FAMS @F77@
+0 @I278@ INDI
+1 NAME dane /arends/
+1 SEX M
+1 DEAT
+1 FAMS @F78@
+0 @I279@ INDI
+1 NAME jenna /arends/
+1 SEX F
+1 BIRT
+2 DATE 2002
+1 FAMC @F78@
+0 @I280@ INDI
+1 NAME ed /roman/
+1 SEX M
+1 DEAT
+2 DATE 1988
+1 FAMS @F79@
+0 @I281@ INDI
+1 NAME mark /roman/
+1 SEX M
+1 BIRT
+2 DATE 1953
+1 FAMC @F79@
+1 FAMS @F80@
+0 @I282@ INDI
+1 NAME jamie /?/
+1 SEX F
+1 DEAT
+1 FAMS @F80@
+0 @I283@ INDI
+1 NAME joe /roman/
+1 SEX M
+1 DEAT
+1 FAMC @F80@
+0 @I284@ INDI
+1 NAME bridget /roman/
+1 SEX F
+1 DEAT
+1 FAMC @F80@
+0 @I285@ INDI
+1 NAME daniel /roman/
+1 SEX M
+1 DEAT
+1 FAMC @F80@
+0 @I286@ INDI
+1 NAME anthony /roman/
+1 SEX M
+1 DEAT
+1 FAMC @F80@
+0 @I287@ INDI
+1 NAME donna /?/
+1 SEX F
+1 DEAT
+1 FAMS @F81@
+0 @I288@ INDI
+1 NAME emma /abbe/
+1 SEX F
+1 BIRT
+2 DATE 2000
+1 FAMC @F81@
+0 @F1@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+1 CHIL @I1@
+0 @F2@ FAM
+1 MARR
+2 DATE 30 DEC 1978
+2 PLAC atlanta, ga
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I17@
+1 CHIL @I16@
+1 CHIL @I15@
+0 @F3@ FAM
+1 MARR
+2 DATE 1953
+1 DIV
+2 DATE 1966
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I2@
+1 CHIL @I21@
+0 @F4@ FAM
+1 MARR
+2 DATE 2011
+1 HUSB @I3@
+1 WIFE @I8@
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I13@
+1 CHIL @I12@
+1 CHIL @I14@
+1 CHIL @I4@
+0 @F6@ FAM
+1 MARR
+2 DATE 1922
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I55@
+1 CHIL @I57@
+1 CHIL @I56@
+1 CHIL @I5@
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I61@
+0 @F7@ FAM
+1 DIV
+2 DATE 1954
+1 HUSB @I6@
+1 WIFE @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+0 @F8@ FAM
+1 MARR
+2 DATE 1978
+1 HUSB @I6@
+1 WIFE @I28@
+1 CHIL @I29@
+0 @F9@ FAM
+1 HUSB @I122@
+1 WIFE @I123@
+1 CHIL @I124@
+1 CHIL @I7@
+0 @F10@ FAM
+1 CHIL @I9@
+0 @F11@ FAM
+1 MARR
+2 DATE 1877
+1 HUSB @I51@
+1 WIFE @I164@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHIL @I10@
+0 @F12@ FAM
+1 HUSB @I99@
+1 WIFE @I100@
+1 CHIL @I11@
+1 CHIL @I102@
+1 CHIL @I101@
+0 @F13@ FAM
+1 MARR Y
+2 PLAC unmarried
+1 HUSB @I15@
+1 WIFE @I40@
+0 @F14@ FAM
+1 HUSB @I18@
+1 WIFE @I83@
+1 CHIL @I84@
+1 CHIL @I85@
+0 @F15@ FAM
+1 HUSB @I39@
+1 WIFE @I19@
+0 @F16@ FAM
+1 MARR Y
+2 PLAC unmarried
+1 DIV Y
+1 HUSB @I41@
+1 WIFE @I19@
+1 CHIL @I42@
+1 CHIL @I43@
+0 @F17@ FAM
+1 DIV Y
+1 HUSB @I44@
+1 WIFE @I19@
+1 CHIL @I45@
+0 @F18@ FAM
+1 MARR Y
+2 PLAC unmarried
+1 DIV
+2 DATE 1980
+1 HUSB @I20@
+1 WIFE @I35@
+1 CHIL @I36@
+0 @F19@ FAM
+1 HUSB @I20@
+1 WIFE @I37@
+1 CHIL @I48@
+1 CHIL @I38@
+0 @F20@ FAM
+1 MARR Y
+2 PLAC unmarried
+1 DIV Y
+1 HUSB @I20@
+1 WIFE @I49@
+1 CHIL @I50@
+0 @F21@ FAM
+1 DIV Y
+1 HUSB @I22@
+1 WIFE @I150@
+0 @F22@ FAM
+1 HUSB @I22@
+1 WIFE @I151@
+0 @F23@ FAM
+1 MARR
+2 DATE 1977
+1 DIV
+2 DATE 1988
+1 HUSB @I23@
+1 WIFE @I152@
+0 @F24@ FAM
+1 HUSB @I23@
+1 WIFE @I153@
+1 CHIL @I154@
+1 CHIL @I155@
+0 @F25@ FAM
+1 MARR
+2 DATE 1974
+1 HUSB @I95@
+1 WIFE @I24@
+1 CHIL @I96@
+1 CHIL @I97@
+1 CHIL @I98@
+0 @F26@ FAM
+1 DIV
+2 DATE 1975
+1 HUSB @I30@
+1 WIFE @I28@
+1 CHIL @I31@
+1 CHIL @I32@
+0 @F27@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I205@
+1 CHIL @I206@
+1 CHIL @I207@
+1 CHIL @I33@
+0 @F28@ FAM
+1 MARR
+2 DATE 1893
+1 HUSB @I64@
+1 WIFE @I65@
+1 CHIL @I76@
+1 CHIL @I77@
+1 CHIL @I78@
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I34@
+1 CHIL @I81@
+1 CHIL @I82@
+0 @F29@ FAM
+1 HUSB @I45@
+1 WIFE @I46@
+1 CHIL @I47@
+0 @F30@ FAM
+1 HUSB @I156@
+1 WIFE @I157@
+1 CHIL @I158@
+1 CHIL @I159@
+1 CHIL @I160@
+1 CHIL @I51@
+1 CHIL @I161@
+1 CHIL @I162@
+1 CHIL @I163@
+0 @F31@ FAM
+1 HUSB @I56@
+1 WIFE @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+1 CHIL @I90@
+1 CHIL @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+0 @F32@ FAM
+1 HUSB @I72@
+1 WIFE @I73@
+1 CHIL @I74@
+1 CHIL @I75@
+1 CHIL @I64@
+0 @F33@ FAM
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I68@
+1 CHIL @I69@
+1 CHIL @I70@
+1 CHIL @I71@
+1 CHIL @I65@
+0 @F34@ FAM
+1 MARR
+2 DATE 2012
+2 PLAC south carolina
+1 HUSB @I84@
+1 WIFE @I86@
+0 @F35@ FAM
+1 HUSB @I108@
+1 WIFE @I96@
+1 CHIL @I109@
+1 CHIL @I110@
+1 CHIL @I111@
+0 @F36@ FAM
+1 HUSB @I97@
+1 WIFE @I112@
+1 CHIL @I113@
+0 @F37@ FAM
+1 HUSB @I169@
+1 WIFE @I170@
+1 CHIL @I99@
+1 CHIL @I172@
+1 CHIL @I173@
+1 CHIL @I174@
+0 @F38@ FAM
+1 HUSB @I101@
+1 WIFE @I115@
+1 CHIL @I120@
+1 CHIL @I121@
+0 @F39@ FAM
+1 HUSB @I102@
+1 WIFE @I114@
+1 CHIL @I116@
+1 CHIL @I117@
+1 CHIL @I118@
+1 CHIL @I119@
+0 @F40@ FAM
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+1 CHIL @I167@
+0 @F41@ FAM
+1 HUSB @I103@
+1 WIFE @I171@
+0 @F42@ FAM
+1 HUSB @I125@
+1 WIFE @I126@
+1 CHIL @I136@
+1 CHIL @I123@
+1 CHIL @I137@
+1 CHIL @I138@
+0 @F43@ FAM
+1 MARR
+2 DATE 1945
+1 HUSB @I144@
+1 WIFE @I124@
+1 CHIL @I145@
+1 CHIL @I146@
+0 @F44@ FAM
+1 MARR
+2 DATE 1866
+1 HUSB @I139@
+1 WIFE @I140@
+1 CHIL @I141@
+1 CHIL @I125@
+1 CHIL @I143@
+1 CHIL @I142@
+0 @F45@ FAM
+1 HUSB @I127@
+1 WIFE @I128@
+1 CHIL @I129@
+1 CHIL @I130@
+1 CHIL @I126@
+1 CHIL @I131@
+1 CHIL @I132@
+1 CHIL @I133@
+1 CHIL @I134@
+1 CHIL @I135@
+0 @F46@ FAM
+1 MARR
+2 DATE 1920
+1 HUSB @I136@
+1 WIFE @I147@
+1 CHIL @I148@
+1 CHIL @I149@
+0 @F47@ FAM
+1 HUSB @I165@
+1 WIFE @I166@
+1 CHIL @I156@
+1 NOTE might be great-great-great grandfather
+0 @F48@ FAM
+1 HUSB @I175@
+1 WIFE @I176@
+1 CHIL @I177@
+1 CHIL @I178@
+1 CHIL @I179@
+1 CHIL @I180@
+1 CHIL @I181@
+1 CHIL @I169@
+0 @F49@ FAM
+1 HUSB @I182@
+1 WIFE @I183@
+1 CHIL @I184@
+1 CHIL @I185@
+1 CHIL @I186@
+1 CHIL @I187@
+1 CHIL @I170@
+0 @F50@ FAM
+0 @F51@ FAM
+1 CHIL @I168@
+0 @F53@ FAM
+1 HUSB @I59@
+1 WIFE @I197@
+1 CHIL @I198@
+1 CHIL @I199@
+0 @F54@ FAM
+1 HUSB @I200@
+1 WIFE @I60@
+1 CHIL @I201@
+1 CHIL @I202@
+0 @F55@ FAM
+1 HUSB @I203@
+1 WIFE @I202@
+0 @F56@ FAM
+1 MARR
+2 DATE 1942
+1 HUSB @I14@
+1 WIFE @I204@
+0 @F57@ FAM
+1 MARR
+2 DATE 1940
+1 HUSB @I208@
+1 WIFE @I55@
+1 CHIL @I209@
+1 CHIL @I210@
+1 CHIL @I213@
+1 CHIL @I211@
+1 CHIL @I228@
+0 @F58@ FAM
+1 HUSB @I209@
+1 WIFE @I212@
+0 @F59@ FAM
+1 MARR
+2 DATE 1967
+1 HUSB @I214@
+1 WIFE @I211@
+1 CHIL @I215@
+1 CHIL @I216@
+1 CHIL @I217@
+0 @F60@ FAM
+1 DIV Y
+1 HUSB @I210@
+1 WIFE @I218@
+1 CHIL @I219@
+0 @F61@ FAM
+1 HUSB @I210@
+1 WIFE @I220@
+0 @F62@ FAM
+1 WIFE @I217@
+1 CHIL @I222@
+0 @F63@ FAM
+1 DIV
+2 DATE 2003
+1 HUSB @I213@
+1 WIFE @I223@
+1 CHIL @I224@
+1 CHIL @I225@
+1 CHIL @I226@
+1 CHIL @I227@
+0 @F64@ FAM
+1 HUSB @I228@
+1 WIFE @I229@
+1 CHIL @I237@
+1 CHIL @I230@
+1 CHIL @I231@
+0 @F65@ FAM
+1 HUSB @I230@
+1 CHIL @I233@
+1 CHIL @I234@
+1 CHIL @I235@
+1 CHIL @I236@
+0 @F66@ FAM
+1 HUSB @I238@
+1 WIFE @I57@
+1 CHIL @I239@
+1 CHIL @I240@
+1 CHIL @I241@
+0 @F67@ FAM
+1 HUSB @I242@
+1 WIFE @I239@
+1 CHIL @I243@
+1 CHIL @I244@
+0 @F68@ FAM
+1 MARR
+2 DATE 1966
+1 HUSB @I240@
+1 WIFE @I245@
+1 CHIL @I246@
+1 CHIL @I247@
+0 @F69@ FAM
+1 HUSB @I241@
+1 WIFE @I248@
+1 CHIL @I249@
+1 CHIL @I250@
+1 CHIL @I251@
+1 CHIL @I252@
+0 @F70@ FAM
+1 HUSB @I253@
+1 WIFE @I89@
+1 CHIL @I254@
+1 CHIL @I255@
+1 CHIL @I256@
+0 @F71@ FAM
+1 HUSB @I90@
+1 WIFE @I257@
+1 CHIL @I258@
+1 CHIL @I259@
+1 CHIL @I260@
+1 CHIL @I261@
+0 @F72@ FAM
+1 WIFE @I258@
+1 CHIL @I263@
+0 @F73@ FAM
+1 HUSB @I264@
+1 WIFE @I259@
+1 CHIL @I265@
+1 CHIL @I266@
+1 CHIL @I267@
+0 @F74@ FAM
+1 HUSB @I261@
+1 WIFE @I268@
+1 CHIL @I269@
+0 @F75@ FAM
+1 HUSB @I91@
+1 WIFE @I270@
+1 CHIL @I271@
+1 CHIL @I272@
+0 @F76@ FAM
+1 DIV Y
+1 HUSB @I93@
+1 WIFE @I273@
+1 CHIL @I274@
+1 CHIL @I275@
+1 CHIL @I276@
+0 @F77@ FAM
+1 HUSB @I277@
+1 WIFE @I275@
+0 @F78@ FAM
+1 HUSB @I278@
+1 WIFE @I94@
+1 CHIL @I279@
+0 @F79@ FAM
+1 HUSB @I280@
+1 WIFE @I58@
+1 CHIL @I281@
+0 @F80@ FAM
+1 HUSB @I281@
+1 WIFE @I282@
+1 CHIL @I283@
+1 CHIL @I284@
+1 CHIL @I285@
+1 CHIL @I286@
+0 @F81@ FAM
+1 HUSB @I201@
+1 WIFE @I287@
+1 CHIL @I288@
+0 TRLR

@@ -1,0 +1,37 @@
+%if;(evar.m="MOD_IND" or evar.m="MOD_FAM" or evar.m="MOD_NOTES" or evar.m="MOD_DATA")
+  %if;(bvar.use_cdn="yes")
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/3.0.20/autosize.js" integrity="sha256-PO9BxwdQWhBkPajSnw0FKB/5Yb11OlMkocaqy5s7HHE=" crossorigin="anonymous"></script>
+  %else;
+   <script src=%if;(cgi)%bvar.static_path;%end;autosize.min.js></script>
+   %end;
+  <script>autosize(document.querySelectorAll('textarea'));</script>
+%end;
+%if;(evar.templ="")
+  %if;(bvar.use_cdn="yes")
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  %else;
+    <script src=%if;(cgi)%bvar.static_path;%end;jquery.min.js></script>
+    <script src=%if;(cgi)%bvar.static_path;%end;tether.min.js></script>
+    <script src=%if;(cgi)%bvar.static_path;%end;bootstrap.min.js></script>
+  %end;
+  <script>
+  $('#load_once_p_mod').one('click', function() {
+    $.getScript('%if;(cgi)%bvar.static_path;%end;p_mod.js');
+  });
+  </script>
+  %if;(wizard and (evar.m="MOD_IND_OK" or evar.m="MOD_FAM_OK"))
+    <script>
+    var htmlTitle = document.title;
+    if
+    ( htmlTitle == "[*person modified]" ||
+      htmlTitle == "[*family modified]" ||
+      htmlTitle == "[*person added]" ||
+      htmlTitle == "[*family added]"
+    )
+    { document.getElementById("reference").focus();
+    }
+    </script>
+  %end;
+%end;

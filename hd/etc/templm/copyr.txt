@@ -1,0 +1,50 @@
+%if;(evar.m!="SND_IMAGE")
+  %import;menu_search
+%else;
+  %if;not cancel_links;
+    %if;(evar.n != "" or evar.i != "" or evar.ip !="" or evar.m !="")
+      <table style="position:absolute;top:50px;float:%if;(evar.m="D" and evar.t="T" and (evar.slices="" or evar.slices !="on"))
+        left;left:10px;%else;right;right:10px;%end;">
+        <tr><td>
+          %if;(referer != "")
+            <a href="%referer;"><img src="%image_prefix;/left.png" %wid_hei;left.png; alt="&lt;&lt;" title="[*back]"%/></a>
+          %end;
+          <a href="%prefix;"><img src="%image_prefix;/up.png" %wid_hei;up.pnd; alt="^^" title="[*home]"%/></a>
+          <a href="%url;cgl=on" target="_blank"><img style="border-width: thin"%sp;
+            src="%image_prefix;/right.png"%wid_hei;right.png; alt="" title="[*cancel GeneWeb links]"%/></a>
+        </td></tr>
+      </table>
+    %end;
+    %if;(evar.digest = "" and evar.m!="SND_IMAGE")
+      %nl;
+      <div id="trl" style="clear:both;">
+        <ul>
+          <li><a href="%prefix_no_templ;templ=;%suffix;">default</a></li>
+          <li><a href="%prefix_no_templ;templ=templm;%suffix;">templm</a></li>
+        </ul>
+      </div>
+    %end;
+  %end;
+%end;
+%define;lang(x)
+  %apply;nth%with;
+    /af/bg/br/ca/cs/da/de/en/eo/es/et/fi/fr/he/is/it/lv/nl/no/oc/pl/pt/pt-br/ro/ru/sk/sl/sv/zh/
+  %and;x%end;
+%end;
+%define;language_link()
+  %for;i;1;30;
+    %let;l1;%apply;lang(i)%in;
+    <a class="dropdown-item" href="%prefix_base;lang=%l1;;templ=%evar.templ;;%suffix;">%l1; %apply;language_name(l1)</a>
+  %end;
+%end;
+
+<div id="footer">
+  <a href="%prefix_no_templ;%suffix;"
+     title="Switch to %if(evar.templ!="templm")template m%else;defaut template%end;">Template -</a>
+  v. %version; %compilation_time;%sp;
+  &copy; INRIA 1998-2016 %connections;%sq;
+  <a href="https://github.com/geneweb/geneweb" target="_blank" title="GeneWeb sources on GitHub">
+  <img src="%image_prefix;/logo_bas.png" alt="Logo GeneWeb bas"></a>
+  <a href="https://geneweb.tuxfamily.org/wiki/GeneWeb%if;(bvar.default_lang = "fr" or evar.lang = "fr")/fr%end;" target="_blank" title="GeneWeb MediaWiki">
+  <img src="%image_prefix;/logo_bas_mw.png" alt="Manual of GeneWeb on Mediawiki"/></a>
+</div>

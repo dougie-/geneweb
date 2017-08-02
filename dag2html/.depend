@@ -1,0 +1,4 @@
+dag2html.cmo: dag2html.cmi
+dag2html.cmx: dag2html.cmi
+main.cmo: dag2html.cmi
+main.cmx: dag2html.cmx

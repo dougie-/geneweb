@@ -1,0 +1,1 @@
+../gw/ged2gwb -fne "" -f /home/ubuntu/geneweb/distribution_new/9-2012.ged -o SmithRealm
